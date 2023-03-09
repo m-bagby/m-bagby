@@ -1,6 +1,6 @@
 <h1>Hi there! 👋</h1>
 
-I love building websites. I primarily work with <b>HTML</b>, <b>CSS</b>, <b>React</b>, and <b>Node.js</b>. <b>JavaScript</b> is my favorite programming language. However, since I first learned how to program in 2014, I've utilized many different languages. This includes <b>Java</b>, <b>PHP</b>, <b>C#</b>, <b>C++</b>, and <b>Python</b>. I love to try different things, so naturally over time I've worked on a lot of different things. Besides websites and servers, I've hacked around with microcontrollers, IOT, video game engines, Windows applications, Android applications, and many console programs.
+I love building websites. I primarily work with <b>HTML</b>, <b>CSS</b>, <b>React</b>, and <b>Node.js</b>. <b>JavaScript</b> is my favorite programming language. However, since I first learned how to program in 2014, I've utilized many different languages. This includes <b>Java</b>, <b>PHP</b>, <b>C#</b>, <b>C++</b>, and <b>Python</b>. I love to try different things, so naturally over time I've worked on a lot of different things. Besides websites and servers, I've hacked around with microcontrollers, IoT, video game engines, Windows applications, Android applications, and many console programs.
 
 🔭 I'm currently working on wrapping up a collection of portfolio websites and finding a job.
 
