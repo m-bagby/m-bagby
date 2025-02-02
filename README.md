@@ -1,9 +1,10 @@
 <h1>Hello, world!</h1>
 
-<b>JavaScript</b> is my favorite programming language. However, since I first learned how to program in 2014, I've utilized many different languages. This includes <b>Java</b>, <b>C#</b>, <b>PHP</b>, <b>C++</b>, <b>PowerShell</b> and <b>Python</b>. I love to try different things, so naturally over time I've worked on a lot of different things. I've hacked around with websites, servers, microcontrollers, Windows applications, IoT, game engines, Android applications, and many console programs.
+I’ve been programming since 2014, with <b>JavaScript</b> being my primary language of choice, particularly for backend development with <b>Node.js</b>. Over the years, I've worked with a wide range of languages and technologies, including <b>Java</b>, <b>C#</b>, <b>PHP</b>, <b>C++</b>, <b>PowerShell</b>, and <b>Python</b>. 
 
+I have experience across a wide array of software development areas, including web development, server-side solutions, embedded systems, IoT, Android development, game engine programming, and building console applications. While I enjoy exploring new areas, my professional focus has been on full-stack development and automating business processes, where I've had the opportunity to deepen my expertise and deliver impactful solutions. I have a particular interest in <b>serverless architectures</b> and have worked extensively with <b>REST APIs</b> to build scalable and efficient systems.
 
-Feel free to reach out! I always appreciate feedback and opportunities to learn and improve.
+I'm always looking for opportunities to collaborate, learn, and grow. If you have feedback, suggestions, or a project you'd like to discuss, feel free to reach out!
 
 <!--
 **m-bagby/m-bagby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
